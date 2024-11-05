@@ -1,9 +1,11 @@
 # Neural Network Project
 
-To get started, run the following command in the terminal:
+This repository contains all Jupyter Notebooks for the Neural Network Project, part of the 3rd-year Software Engineering course at Metropolia University of Applied Sciences.
+
+## Getting Started
+
+To install all required packages, run the following command in your terminal:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-This will install all the necessary packages to run the code.
