@@ -241,3 +241,6 @@ fabric.properties
 
 # Custom
 .idea/*
+
+Inputs/*
+Models/*
